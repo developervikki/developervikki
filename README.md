@@ -7,7 +7,7 @@
 </h1>
 <h3 align="center">A passionate Engineering Student currently learing about MATLAB, DSA,FPGA, XILINIX.  </h3>
 <!----------------------------------- Profile View Section ------------------------------------>
-<p align="left"> <a href="https://www.linkedin.com/in/vikashyadavbasti" target="blank"><img src="https://img.shields.io/twitter/follow/vikash?logo=linkedin&style=for-the-badge" alt="developervikki" /></a> <a title="bloggervikash7@gmail.com" href="mailto:bloggervikash7@gmail.com">
+<p align="center"> <a href="https://www.linkedin.com/in/vikashyadavbasti" target="blank"><img src="https://img.shields.io/twitter/follow/vikash?logo=linkedin&style=for-the-badge" alt="developervikki" /></a> <a title="bloggervikash7@gmail.com" href="mailto:bloggervikash7@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="flutterfever@gmail.com" />
     </a></p>
 
