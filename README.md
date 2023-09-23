@@ -1,8 +1,8 @@
 <!----------------------------------- Heading Section ------------------------------------>
-<h1 align="left">
+<h1 align="center">
     Hi
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
-    I'm Coderbaba
+    I'm Vikash Yadav
     <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
 </h1>
 <h3 align="left">A passionate Flutter developer from India who always strives to work on end to end products. </h3>
@@ -21,19 +21,20 @@
   
  ## 🛠 Skills
 
-- **Languages**: Dart, PHP,Java Sript,C
-- **Front-End**: Flutter, Flutterflow, HTML, CSS
-- **Back-End**: API, Sqflite,PostgreSQL, Mysql,(Firebase & Appwrite as BaaS),Hive
-- **Architectural patterns**: MVVM, MVC
-- **Others** :  Wordpress,Figma, Canva, Inkscape
-- **Tools** :  VS Code, Android Studio,GIT,POSTMAN, XAMPP
+- **Programming Languages**: C, MATLAB, PHP
+- **Front-End**: HTML, CSS, BootStrap
+- **Back-End**: Mysql
+- **Others** :  Wordpress,Google Search Console, Google Analytics
+- **Tools** :  VS Code, Dev C++ , Matlab, GIT, XAMPP
+- **Microcontroller Skills** : FPGA , Arudion UNO, Node MCU, MultiSim (For Circuit Designing & Simulations)
+
 
 ## 📈 Projects
 
-- **[VTUBE App](#)**: VTUBE App using Flutter , Firebase, Youtube Data API from scratch for Android. This plateform provides a channel specfic videos using there channel id and also supports custom short videos features with caching mechanism.
-- **[Service Booking App](https://play.google.com/store/apps/details?id=com.homeservices.app.book_services)**: This is Service booking app with Chat Features using Service booking API, Firebase, and shared prefrences for crictical data storing with real time notifications.
-- **[Sports betting App](https://play.google.com/store/apps/details?id=com.sportsprince.sports_prince)**: This is many to one chat app without user numer limition Accessibility  (like whatsapp single side group chat but it has limited user), with realtime notifications and implementation of Cricket Api and admin can create Poll for team or player also .
-- **[News App](#)**: This is News App using Wordpress Rest Api with weather features and search and filter category based on API data. Voice read features also integrated on single tap this app is fully customized just change domain and acess post in app.
+- **[Ecommerce Cart Web App](#)**: This is Ecommerce shopping web application During My internship using PHP and Mysql.  Admin can update products list and delete or update for user site listing. User Login and Registration module integrated.
+- **[Wordpress News Website](https://theupreport.com/)**: This is Wordpress news website with Publisher theme customization and google site kit  pulgin integration
+- **[App Based Smart car( Based on Node MCU & Moter Controller)](#)**: This is App based Smart car  you can control this using Mobile app its auto object detection features using ultrasonic sensor user can view distance of object in realtime at arduino port.
+- **[Home Automation using Blink App](#)**: This is Node MCU microcontroller Based Home automation project user can Control your all home devices using Blink Server.
 
 ## 📄 Internship Experience
 
@@ -61,7 +62,7 @@
     <a title="vky9670480893@gmail.com" href="mailto:vky9670480893@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="vky9670480893@gmail.com" />
     </a>
-     <a href="#" target="blank"><img src="https://img.shields.io/twitter/follow/coderbaba0?logo=twitter&style=for-the-badge" alt="coderbaba0" />
+     <a href="#" target="blank"><img src="https://img.shields.io/twitter/follow/developervikki?logo=twitter&style=for-the-badge" alt="coderbaba0" />
 </p>
          
 ## 🛠️ Languages and Tools :
