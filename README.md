@@ -26,7 +26,7 @@
 - **Back-End**: Mysql
 - **Others** :  Wordpress,Google Search Console, Google Analytics
 - **Tools** :  VS Code, Dev C++ , Matlab, GIT, XAMPP
-- **Microcontroller Skills** : FPGA , Arduino UNO, Node MCU, MultiSim (For Circuit Designing & Simulations)
+- **Microcontroller Skills** : FPGA , Arduino UNO, Node MCU, MultiSim , LTspice (For Circuit Designing & Simulations)
 
 
 ## 📈 Projects
