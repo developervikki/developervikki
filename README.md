@@ -12,7 +12,7 @@
     </a></p>  
 
 - 👋 Hi, I’m ,an **Engineering Student<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> currently pursuing my second year enginering course Specilization in Electronics & Communication Engineering.** 
-- 🌱 I’m Learning **MATLAB & C**.
+- 🌱 I’m Learning **MATLAB , C & C++**.
 - 💬 Ask me about **C, MATLAB, PHP & IOT**
 - 💞️ I’m looking to collaborate on IIOT, C, Matlab 
 - 📫 How to reach me **bloggervikash7@gmail.com**
