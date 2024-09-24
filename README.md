@@ -5,14 +5,14 @@
     I'm Vikash Yadav 
     <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
 </h1>
-<h3 align="center">A passionate Engineering Student currently learing about MATLAB, DSA,FPGA, XILINX.  </h3>
+<h3 align="center">A passionate Engineering Student currently learing about MATLAB, DSA,FPGA, dotnet C#, XILINX.  </h3>
 <!----------------------------------- Profile View Section ------------------------------------>
 <p align="center"> <a href="https://www.linkedin.com/in/vikashyadavbasti" target="blank"><img src="https://img.shields.io/twitter/follow/vikash?logo=linkedin&style=for-the-badge" alt="developervikki" /></a> <a title="bloggervikash7@gmail.com" href="mailto:bloggervikash7@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="flutterfever@gmail.com" />
     </a></p>  
 
-- 👋 Hi, I’m ,an **Engineering Student<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> currently pursuing my second year enginering course Specilization in Electronics & Communication Engineering.** 
-- 🌱 I’m Learning **MATLAB , C & C++**.
+- 👋 Hi, I’m ,an **Engineering Student<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> currently pursuing my second year enginering course Specilization in Computer Science and Engineering.** 
+- 🌱 I’m Learning **MATLAB , C#, C & C++**.
 - 💬 Ask me about **C, MATLAB, PHP & IOT**
 - 💞️ I’m looking to collaborate on IIOT, C, Matlab 
 - 📫 How to reach me **bloggervikash7@gmail.com**
