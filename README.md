@@ -3,76 +3,121 @@
     Hi
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
     I'm Vikash Yadav 
-    <img  src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35px"/>
 </h1>
-<h3 align="center">A passionate Engineering Student currently learing about MATLAB, DSA,FPGA, dotnet C#, XILINX.  </h3>
-<!----------------------------------- Profile View Section ------------------------------------>
-<p align="center"> <a href="https://www.linkedin.com/in/vikashyadavbasti" target="blank"><img src="https://img.shields.io/twitter/follow/vikash?logo=linkedin&style=for-the-badge" alt="developervikki" /></a> <a title="bloggervikash7@gmail.com" href="mailto:bloggervikash7@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="flutterfever@gmail.com" />
-    </a></p>  
 
-- 👋 Hi, I’m ,an **Engineering Student<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> currently pursuing my second year enginering course Specilization in Computer Science and Engineering.** 
-- 🌱 I’m Learning **MATLAB , C#, C & C++**.
-- 💬 Ask me about **C, MATLAB, PHP & IOT**
-- 💞️ I’m looking to collaborate on IIOT, C, Matlab 
-- 📫 How to reach me **bloggervikash7@gmail.com**
-- 💞️ Love to share knowledge and contribute to Open Source community.
-- For More: **https://flutterfever.com**
-  
- ## 🛠 Skills
-
-- **Programming Languages**: C, MATLAB, PHP
-- **Front-End**: HTML, CSS, BootStrap
-- **Back-End**: Mysql
-- **Others** :  Wordpress,Google Search Console, Google Analytics
-- **Tools** :  VS Code, Dev C++ , Matlab, GIT, XAMPP
-- **Microcontroller Skills** : FPGA , Arduino UNO, Node MCU, MultiSim , LTspice (For Circuit Designing & Simulations)
-
-
-## 📈 Projects
-
-- **[Ecommerce Cart Web App](#)**: This is Ecommerce shopping web application During My internship using PHP and Mysql.  Admin can update products list and delete or update for user site listing. User Login and Registration module integrated.
-- **[Wordpress News Website](https://theupreport.com/)**: This is Wordpress news website with Publisher theme customization and google site kit  pulgin integration
-- **[App Based Smart car( Based on Node MCU & Moter Controller)](#)**: This is App based Smart car  you can control this using Mobile app its auto object detection features using ultrasonic sensor user can view distance of object in realtime at arduino port.
-- **[Home Automation using Blink App](#)**: This is Node MCU microcontroller Based Home automation project user can Control your all home devices using Blink Server.
-
-## 📄 Internship Experience
-
-- **Web Development Using PHP**: Softpro India, Lucknow  (July 2022 - Sept 2022)
-- **Web Designer**: Web gestures basti (March 2021 - Jun 2021)
-
-## 🎓 Education
-
-- **Bachelor of Technology**: Electronics & Communication Engineering From  Governement GB Pant Engineering College New Delhi (From Jul 2023 -Present)
-- **Diploma in Electronics Engineering**: Government Polytechnic Gonda UP (From Jul 2020 -June 2023)
- 
-## 📈 Analytics
+<h3 align="center">
+  A passionate Engineering Student learning MATLAB, DSA, FPGA, .NET (C#), NumPy, Pandas, and Tailwind CSS.
+</h3>
 
 <p align="center">
-<a href="https://github.com/developervikki">
-  <img height="180em" width="49%" margin-right="20px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=developervikki&theme=radical&show_icons=true&include_all_commits=false&count_private=true"/>
-  <img height="180em" width="49%" src="https://streak-stats.demolab.com?user=developervikki&theme=transparent&date_format=%5BY%20%5DM%20j&theme=radical"/>
-</a>
+  <img src="https://komarev.com/ghpvc/?username=developervikki&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="developervikki" />
 </p>
 
-## 📱 Connect with me :
- <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="#"/>
+<!----------------------------------- Social Links ------------------------------------>
+<p align="center">
+  <a href="https://www.linkedin.com/in/vikashyadavbasti" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-    <a title="vky9670480893@gmail.com" href="mailto:vky9670480893@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="vky9670480893@gmail.com" />
-    </a>
-     <a href="#" target="blank"><img src="https://img.shields.io/twitter/follow/developervikki?logo=twitter&style=for-the-badge" alt="coderbaba0" />
-</p>
-         
-## 🛠️ Languages and Tools :
-
-<p align="left">  </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" title="C" alt="C" width="40" height="40"/>&nbsp;
-            <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"  width="40" height="40" />
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"  width="40" height="40"  />
-
+  <a href="mailto:bloggervikash7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://flutterfever.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" />
+  </a>
 </p>
 
+---
 
+### 👨‍🎓 About Me
 
+- 👨‍💻 I’m currently in **2nd year B.Tech in Computer Science (ECE base)**.
+- 🌱 Currently learning: **MATLAB, NumPy, Pandas, Tailwind CSS, C#, PHP**.
+- 💬 Ask me about: **IoT Projects, Web Development, Circuit Simulation**.
+- 💡 Love to contribute in open source, write blogs, and teach juniors.
+- 📫 Email: **bloggervikash7@gmail.com**
+
+---
+
+## 🏅 Earning & Internship Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Freelancer-Success-green?style=for-the-badge&logo=fiverr&logoColor=white" />
+  <img src="https://img.shields.io/badge/Internship-Softpro%20India-blue?style=for-the-badge&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Internship-Web%20Gestures-yellow?style=for-the-badge&logo=vercel&logoColor=black" />
+  <img src="https://img.shields.io/badge/Project-Ecommerce%20App-red?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT-Smart%20Car-orange?style=for-the-badge&logo=arduino&logoColor=white" />
+</p>
+
+---
+
+## 🛠 Skills
+
+### Programming & Tools
+- **Languages:** C, C++, MATLAB, PHP, Python (NumPy, Pandas)
+- **Frontend:** HTML, CSS, Tailwind CSS, Bootstrap
+- **Backend & DB:** PHP, MySQL
+- **Others:** Git, XAMPP, WordPress, LTspice, MultiSim
+- **IoT/Microcontrollers:** Arduino, NodeMCU, FPGA
+
+---
+
+## 🚀 Projects
+
+- 🔹 **[Ecommerce Cart Web App](#)** – Admin/User system using PHP and MySQL.
+- 🔹 **[WordPress News Site](https://theupreport.com/)** – Theme and plugin integration.
+- 🔹 **[Smart IoT Car](#)** – App-controlled NodeMCU-based car with sensor.
+- 🔹 **[Home Automation (Blynk App)](#)** – Real-time appliance control.
+
+---
+
+## 📚 Education
+
+- 🎓 **B.Tech – ECE**: GB Pant Engineering College, New Delhi _(2023–Present)_
+- 🎓 **Diploma – Electronics**: Govt. Polytechnic Gonda _(2020–2023)_
+
+---
+
+## 💼 Internships
+
+- 💻 **Web Development Intern** @ Softpro India, Lucknow (Jul 2022 - Sep 2022)
+- 🎨 **Web Designer** @ Web Gestures, Basti (Mar 2021 - Jun 2021)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=developervikki&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=developervikki&theme=radical" />
+</p>
+
+---
+
+## 🔗 Languages and Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+## 📱 Connect with Me
+
+<p align="center">
+  <a href="mailto:vky9670480893@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/developervikki">
+    <img src="https://img.shields.io/twitter/follow/developervikki?logo=twitter&style=for-the-badge" />
+  </a>
+</p>
