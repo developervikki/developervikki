@@ -31,7 +31,7 @@
 
 ### 👨‍🎓 About Me
 
-- 👨‍💻 I’m currently in **2nd year B.Tech in Computer Science (ECE base)**.
+- 👨‍💻 I’m currently in **3rd year B.Tech in Computer Science (ECE base)**.
 - 🌱 Currently learning: **MATLAB, NumPy, Pandas, Tailwind CSS, C#, PHP**.
 - 💬 Ask me about: **IoT Projects, Web Development, Circuit Simulation**.
 - 💡 Love to contribute in open source, write blogs, and teach juniors.
