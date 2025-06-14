@@ -39,7 +39,7 @@
 - 🌱 Currently Exploring: **Flask, MATLAB, NumPy, Pandas, C#, Tailwind CSS**  
 - 💡 Passionate about IoT, Web Dev, and Circuit Simulations  
 - 📝 Blogging | 🎓 Teaching Juniors | 🧑‍💻 Freelancing  
-- 📬 Reach me at: **bloggervikash7@gmail.com**
+- 📬 Reach me at: **typhonya@gmail.com**
 
 ---
 
@@ -126,7 +126,8 @@
 ## 📊 GitHub Stats and Languages
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=developervikki&show_icons=true&theme=radical&count_private=true" />
+  
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=developervikki&show_icons=true&theme=radical&count_private=true" />-->
   <img height="180em" src="https://streak-stats.demolab.com?user=developervikki&theme=radical" />
 </p>
 
