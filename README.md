@@ -110,11 +110,26 @@
 </p>
 
 ---
+## 🏆 GitHub Achievements
+
+🎯 Check out all my GitHub achievement badges 👉 [View on GitHub](https://github.com/developervikki?tab=achievements)
+
+Some of my proud achievements:
+
+- 🦈 **Pull Shark** – Merged multiple pull requests
+- 🚀 **YOLO** – Merged PRs without code review
+- ⭐ **Starstruck** – Repository starred by others
+- 👯 **Pair Extraordinaire** – Co-authored a PR
+- 🧊 **Arctic Code Vault Contributor** – Code preserved forever
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Achievement-Pull--Shark-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Achievement-YOLO-green?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Achievement-Starstruck-yellow?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Pull--Shark-Achievement-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/YOLO-Achievement-green?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Starstruck-Achievement-yellow?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Pair--Extraordinaire-Achievement-purple?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Arctic--Vault-Achievement-cyan?style=for-the-badge&logo=snowflake" />
 </p>
+
 
 
 
