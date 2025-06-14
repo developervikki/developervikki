@@ -1,145 +1,166 @@
 <!----------------------------------- Heading Section ------------------------------------>
 <h1 align="center"> 
-    Hi
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
-    I'm Vikash Yadav 
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35px"/>
+  Hi
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
+  I'm Vikash Yadav
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35px"/>
 </h1>
 
 <h3 align="center">
-  A passionate Engineering Student learning MATLAB, DSA, FPGA, .NET (C#), NumPy, Pandas, and Tailwind CSS.
+  👨‍🎓 B.Tech CSE | 💻 MATLAB | ⚙️ FPGA | 🌐 Web Dev | 🤖 AI/ML Learner
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=developervikki&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="developervikki" />
+  <img src="https://komarev.com/ghpvc/?username=developervikki&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-<!----------------------------------- Social Links ------------------------------------>
+---
+
+## 🔗 Socials
+
 <p align="center">
   <a href="https://www.linkedin.com/in/vikashyadavbasti" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:typhonya@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://flutterfever.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 👨‍🎓 About Me
+## 👨‍💻 About Me
 
-- 👨‍💻 I’m currently in **3rd year B.Tech in Computer Science (ECE base)**.
-- 🌱 Currently learning: **MATLAB, NumPy, Pandas, Tailwind CSS, C#, PHP**.
-- 💬 Ask me about: **IoT Projects, Web Development, Circuit Simulation**.
-- 💡 Love to contribute in open source, write blogs, and teach juniors.
-- 📫 Email: **bloggervikash7@gmail.com**
+- 🎓 3rd Year B.Tech (CSE - ECE Base), GB Pant Engineering College, New Delhi  
+- 🔬 Ex-Diploma (Electronics), Govt. Polytechnic Gonda  
+- 🌱 Currently Exploring: **Flask, MATLAB, NumPy, Pandas, C#, Tailwind CSS**  
+- 💡 Passionate about IoT, Web Dev, and Circuit Simulations  
+- 📝 Blogging | 🎓 Teaching Juniors | 🧑‍💻 Freelancing  
+- 📬 Reach me at: **bloggervikash7@gmail.com**
 
 ---
 
-## 🏅 Earning & Internship Badges
+## 💼 Internships & Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Freelancer-Success-green?style=for-the-badge&logo=fiverr&logoColor=white" />
-  <img src="https://img.shields.io/badge/Internship-Softpro%20India-blue?style=for-the-badge&logo=bookstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Internship-Web%20Gestures-yellow?style=for-the-badge&logo=vercel&logoColor=black" />
-  <img src="https://img.shields.io/badge/Project-Ecommerce%20App-red?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT-Smart%20Car-orange?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Freelancer-Success-green?style=for-the-badge&logo=fiverr&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Intern-Softpro%20India-blue?style=for-the-badge&logo=bookstack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Intern-Web%20Gestures-yellow?style=for-the-badge&logo=vercel&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Project-Ecommerce%20App-red?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IoT-Smart%20Car-orange?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 
 ---
 
-## 🛠 Skills
+## 💻 Skills
+<!-- 💻 Tech Stack (Icons Only) -->
 
-### Programming & Tools
-- **Languages:** C, C++, MATLAB, PHP, Python (NumPy, Pandas)
-- **Frontend:** HTML, CSS, Tailwind CSS, Bootstrap
-- **Backend & DB:** PHP, MySQL
-- **Others:** Git, XAMPP, WordPress, LTspice, MultiSim
-- **IoT/Microcontrollers:** Arduino, NodeMCU, FPGA
+<!-- 💻 Tech Stack (Icons Only) -->
+
+### 🧠 Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### 📚 Libraries
+<p align="center">
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Simulink-fb8c00?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/STL-C%2B%2B?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
+
+### 🚀 Frameworks / Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blynk-28C101?style=for-the-badge&logo=googlehome&logoColor=white" />
+</p>
+
+### 🔧 Tools & IDEs
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+</p>
+
+### 🔌 IoT, FPGA & Embedded Systems
+<p align="center">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/NodeMCU-83C5BE?style=for-the-badge&logo=wifi&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=esphome&logoColor=white" />
+  <img src="https://img.shields.io/badge/FPGA-00AEEF?style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quartus-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/LTspice-CC0000?style=for-the-badge&logo=analog-devices&logoColor=white" />
+  <img src="https://img.shields.io/badge/MultiSim-00599C?style=for-the-badge&logo=ni&logoColor=white" />
+</p>
 
 ---
 
 ## 🚀 Projects
 
-- 🔹 **[Ecommerce Cart Web App](#)** – Admin/User system using PHP and MySQL.
-- 🔹 **[WordPress News Site](https://theupreport.com/)** – Theme and plugin integration.
-- 🔹 **[Smart IoT Car](#)** – App-controlled NodeMCU-based car with sensor.
-- 🔹 **[Home Automation (Blynk App)](#)** – Real-time appliance control.
+- 🛒 **Ecommerce Web App** – Admin/User Panel | PHP + MySQL  
+- 📰 **WordPress News Portal** – [The Up Report](https://theupreport.com)  
+- 🚗 **IoT Smart Car** – App-controlled NodeMCU + Sensors  
+- 🏠 **Home Automation** – Blynk-controlled IoT appliances  
+- 📟 **Digital Counter using FPGA** – Simulated using Quartus II
 
 ---
 
-## 📚 Education
 
-- 🎓 **B.Tech – ECE**: GB Pant Engineering College, New Delhi _(2023–Present)_
-- 🎓 **Diploma – Electronics**: Govt. Polytechnic Gonda _(2020–2023)_
-
----
-
-## 💼 Internships
-
-- 💻 **Web Development Intern** @ Softpro India, Lucknow (Jul 2022 - Sep 2022)
-- 🎨 **Web Designer** @ Web Gestures, Basti (Mar 2021 - Jun 2021)
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Stats and Languages
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=developervikki&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=developervikki&show_icons=true&theme=radical&count_private=true" />
   <img height="180em" src="https://streak-stats.demolab.com?user=developervikki&theme=radical" />
 </p>
 
----
-
-## 🔗 Languages and Tools
-
+<!-- Custom Badges for Subjects and Grades -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B-A%2B-blue?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-A-green?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-A-yellow?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
+
 ---
+
 ## 🏆 GitHub Achievements
 
-🎯 Check out all my GitHub achievement badges 👉 [View on GitHub](https://github.com/developervikki?tab=achievements)
-
-Some of my proud achievements:
-
-- 🦈 **Pull Shark** – Merged multiple pull requests
-- 🚀 **YOLO** – Merged PRs without code review
-- ⭐ **Starstruck** – Repository starred by others
-- 👯 **Pair Extraordinaire** – Co-authored a PR
-- 🧊 **Arctic Code Vault Contributor** – Code preserved forever
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Pull--Shark-Achievement-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/YOLO-Achievement-green?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Starstruck-Achievement-yellow?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Pair--Extraordinaire-Achievement-purple?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Arctic--Vault-Achievement-cyan?style=for-the-badge&logo=snowflake" />
+  <img src="https://img.shields.io/badge/Pull--Shark-Achievement-blue?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/YOLO-Achievement-green?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Starstruck-Achievement-yellow?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Pair--Extraordinaire-Achievement-purple?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Arctic--Vault-Achievement-cyan?style=for-the-badge&logo=snowflake"/>
 </p>
 
+🔗 [View All My GitHub Badges](https://github.com/developervikki?tab=achievements)
 
-
+---
 
 ## 📱 Connect with Me
 
 <p align="center">
   <a href="mailto:vky9670480893@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://twitter.com/developervikki">
-    <img src="https://img.shields.io/twitter/follow/developervikki?logo=twitter&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/follow/developervikki?logo=twitter&style=for-the-badge"/>
   </a>
 </p>
