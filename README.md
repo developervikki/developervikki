@@ -110,6 +110,16 @@
 </p>
 
 ---
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github.com/developervikki/developervikki/raw/main/assets/github-achievements/pull-shark-default.svg" height="80" alt="Pull Shark"/>
+  <img src="https://github.com/developervikki/developervikki/raw/main/assets/github-achievements/yolo-default.svg" height="80" alt="YOLO"/>
+  <img src="https://github.com/developervikki/developervikki/raw/main/assets/github-achievements/starstruck-default.svg" height="80" alt="Starstruck"/>
+  <img src="https://github.com/developervikki/developervikki/raw/main/assets/github-achievements/quickdraw-default.svg" height="80" alt="Quickdraw"/>
+  <img src="https://github.com/developervikki/developervikki/raw/main/assets/github-achievements/pair-extraordinaire-default.svg" height="80" alt="Pair Extraordinaire"/>
+</p>
+
 
 ## 📱 Connect with Me
 
