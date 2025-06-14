@@ -110,15 +110,12 @@
 </p>
 
 ---
-## 🏆 GitHub Achievements
-
 <p align="center">
-  <img src="https://github.com/developervikki/developervikki/raw/main/assets/github-achievements/pull-shark-default.svg" height="80" alt="Pull Shark"/>
-  <img src="https://github.com/developervikki/developervikki/raw/main/assets/github-achievements/yolo-default.svg" height="80" alt="YOLO"/>
-  <img src="https://github.com/developervikki/developervikki/raw/main/assets/github-achievements/starstruck-default.svg" height="80" alt="Starstruck"/>
-  <img src="https://github.com/developervikki/developervikki/raw/main/assets/github-achievements/quickdraw-default.svg" height="80" alt="Quickdraw"/>
-  <img src="https://github.com/developervikki/developervikki/raw/main/assets/github-achievements/pair-extraordinaire-default.svg" height="80" alt="Pair Extraordinaire"/>
+  <img src="https://img.shields.io/badge/Achievement-Pull--Shark-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Achievement-YOLO-green?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Achievement-Starstruck-yellow?style=for-the-badge&logo=github" />
 </p>
+
 
 
 ## 📱 Connect with Me
