@@ -1,9 +1,6 @@
-<!----------------------------------- Heading Section ------------------------------------>
-<h1 align="center"> 
-  Hi 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
-  I'm Vikash Yadav
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35px"/>
+<!-- Heading Section -->
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/> I'm Vikash Yadav <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35px"/>
 </h1>
 
 <h3 align="center">
@@ -12,6 +9,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=developervikki&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/developervikki?label=Followers&style=for-the-badge" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/developervikki?style=for-the-badge" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/repos/developervikki?style=for-the-badge" alt="GitHub Repos"/>
 </p>
 
 ---
@@ -56,10 +56,8 @@
 ---
 
 ## 💻 Skills
-<!-- 💻 Tech Stack (Icons Only) -->
 
-<!-- 💻 Tech Stack (Icons Only) -->
-
+<!-- Languages -->
 ### 🧠 Languages
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -73,6 +71,7 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
+<!-- Libraries -->
 ### 📚 Libraries
 <p align="center">
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -81,6 +80,7 @@
   <img src="https://img.shields.io/badge/STL-C%2B%2B?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
+<!-- Frameworks -->
 ### 🚀 Frameworks / Platforms
 <p align="center">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
@@ -90,15 +90,16 @@
   <img src="https://img.shields.io/badge/Blynk-28C101?style=for-the-badge&logo=googlehome&logoColor=white" />
 </p>
 
+<!-- Tools -->
 ### 🔧 Tools & IDEs
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
 
+<!-- IoT -->
 ### 🔌 IoT, FPGA & Embedded Systems
 <p align="center">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
@@ -122,40 +123,24 @@
 
 ---
 
-
-## 📊 GitHub Stats and Languages
+## 📊 GitHub Stats
 
 <p align="center">
-  
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=developervikki&show_icons=true&theme=radical&count_private=true" />-->
-  <img height="180em" src="https://streak-stats.demolab.com?user=developervikki&theme=radical" />
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=developervikki&show_icons=true&theme=radical" height="180"/>-->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developervikki&layout=compact&theme=radical"/>
 </p>
-
-<!-- Custom Badges for Subjects and Grades -->
-<p align="center">
-  <img src="https://img.shields.io/badge/C%2B-A%2B-blue?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-A-green?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-A-yellow?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pull--Shark-Achievement-blue?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/YOLO-Achievement-green?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Starstruck-Achievement-yellow?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Pair--Extraordinaire-Achievement-purple?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Arctic--Vault-Achievement-cyan?style=for-the-badge&logo=snowflake"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=developervikki&theme=radical&margin-w=10&no-bg=true" />
 </p>
-
-🔗 [View All My GitHub Badges](https://github.com/developervikki?tab=achievements)
 
 ---
 
-## 📱 Connect with Me
+## 📱 Contact Me
 
 <p align="center">
   <a href="mailto:vky9670480893@gmail.com">
