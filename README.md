@@ -120,14 +120,21 @@
 </p>
 
 ---
+---
 
-## 🚀 Projects
+## 🚀 Latest Projects
 
-- 🛒 **Ecommerce Web App** – Admin/User Panel | PHP + MySQL  
-- 📰 **WordPress News Portal** – [The Up Report](https://theupreport.com)  
-- 🚗 **IoT Smart Car** – App-controlled NodeMCU + Sensors  
-- 🏠 **Home Automation** – Blynk-controlled IoT appliances  
-- 📟 **Digital Counter using FPGA** – Simulated using Quartus II
+| Project | Tech Stack | Description | Links |
+|--------|------------|-------------|--------|
+| 🧠 **AI-Powered Attendance System** <br> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> | Python, OpenCV, Pandas | Face-recognition-based attendance app using webcam and Excel logging. | [🔗 GitHub](https://github.com/developervikki/ai-attendance) |
+| 📚 **Digital Library Portal** <br> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white"/> | PHP, MySQL, Tailwind CSS | Booking & fee system for digital library with admin dashboard and invoice generation. | [📦 Repo](https://github.com/developervikki/digital-library-portal) |
+| ⚡ **Smart IoT Car** <br> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Blynk-28C101?style=flat&logo=googlehome&logoColor=white"/> <img src="https://img.shields.io/badge/NodeMCU-83C5BE?style=flat&logo=wifi&logoColor=white"/> | NodeMCU, Blynk, Arduino | Obstacle-avoiding car controlled via smartphone using IoT platform. | [🔗 GitHub](https://github.com/developervikki/iot-smart-car) |
+| 🛒 **E-commerce Website** <br> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> | PHP, Bootstrap, MySQL | Admin & user dashboard, product CRUD, secure checkout, and cart logic. | [📦 View Code](https://github.com/developervikki/ecommerce-site) |
+| 📟 **FPGA Digital Counter** <br> <img src="https://img.shields.io/badge/Quartus-0071C5?style=flat&logo=intel&logoColor=white"/> <img src="https://img.shields.io/badge/VHDL-0066cc?style=flat"/> | Quartus II, FPGA (VHDL) | 4-bit up/down counter logic using simulation in Quartus II. | [🔗 Simulation](https://github.com/developervikki/fpga-counter) |
+| 🧪 **MATLAB Circuit Simulator** <br> <img src="https://img.shields.io/badge/MATLAB-orange?style=flat&logo=mathworks&logoColor=white"/> <img src="https://img.shields.io/badge/Simulink-fb8c00?style=flat&logo=mathworks&logoColor=white"/> | MATLAB, Simulink | Circuit block simulator and waveform generator in MATLAB GUI. | [🔬 Demo](https://github.com/developervikki/matlab-simulations) |
+
+---
+
 
 ---
 
@@ -150,6 +157,14 @@
 </p>
 
 
+
+## 🧩 Fun Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MATLAB-A-green?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-A-yellow?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-A%2B-blue?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
 
 ---
 
