@@ -16,6 +16,14 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=developervikki&theme=radical&margin-w=10&no-bg=true" />
+</p>
+
+---
+
 ## 🔗 Socials
 
 <p align="center">
@@ -130,13 +138,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developervikki&layout=compact&theme=radical"/>
 </p>
 
----
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=developervikki&theme=radical&margin-w=10&no-bg=true" />
-</p>
 
 ---
 
