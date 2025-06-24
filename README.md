@@ -1,180 +1,98 @@
-<!-- Heading Section -->
-<h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/> I'm Vikash Yadav <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35px"/>
-</h1>
-
-<h3 align="center">
-  👨‍🎓 B.Tech CSE | 💻 MATLAB | ⚙️ FPGA | 🌐 Web Dev | 🤖 AI/ML Learner
-</h3>
+<!-- Profile Header -->
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Vikash Yadav</h1>
+<h3 align="center">👨‍🎓 B.Tech CSE | 💡 IoT & Web Dev Enthusiast | 🤖 AI/ML Learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=developervikki&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/developervikki?label=Followers&style=for-the-badge" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/developervikki?style=for-the-badge" alt="GitHub Stars"/>
-  <img src="https://img.shields.io/github/repos/developervikki?style=for-the-badge" alt="GitHub Repos"/>
+  <img src="https://komarev.com/ghpvc/?username=developervikki&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/developervikki?label=Followers&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/developervikki?style=for-the-badge"/>
 </p>
+
+---
+
+## 🧑‍💻 About Me
+- 🎓 3rd Year B.Tech (CSE-ECE) @ **GB Pant Engineering College, Delhi**
+- 📜 Diploma (Electronics) from **Govt. Polytechnic, Gonda**
+- 🔬 Exploring: **Flask, MATLAB, Tailwind, AI/ML**
+- 🌐 Passionate about: **IoT, FPGA, Web Dev, Circuit Simulation**
+- ✍️ I enjoy **teaching**, **blogging**, and **freelancing**
+- 📫 Reach me at: [typhonya@gmail.com](mailto:typhonya@gmail.com)
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=developervikki&theme=radical&margin-w=10&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=developervikki&theme=radical&no-frame=true&margin-w=15" />
 </p>
 
 ---
 
-## 🔗 Socials
+## 🔧 Tech Stack
+
+### 🧠 Languages  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 📚 Libraries & Tools  
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![STL](https://img.shields.io/badge/C++-STL-blue?style=for-the-badge&logo=cplusplus)
+
+### 🚀 Frameworks  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+
+### 💻 Tools & IDEs  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+### 🔌 IoT & Embedded  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
+![NodeMCU](https://img.shields.io/badge/NodeMCU-83C5BE?style=for-the-badge)
+![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=esphome)
+![FPGA](https://img.shields.io/badge/FPGA-00AEEF?style=for-the-badge&logo=intel)
+![LTspice](https://img.shields.io/badge/LTspice-CC0000?style=for-the-badge&logo=analog-devices)
+
+---
+
+## 🚀 Highlight Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🧠 **AI Attendance System** | Face recognition-based webcam attendance with Excel logging. | Python, OpenCV, Pandas |
+| 📚 **Digital Library Portal** | Booking system with admin dashboard and PDF invoice. | PHP, MySQL, Tailwind |
+| 🚗 **Smart IoT Car** | Obstacle-avoiding car via NodeMCU + Blynk App. | Arduino, IoT |
+| 🛒 **E-Commerce Platform** | Secure checkout, cart, admin CRUD. | PHP, MySQL, Bootstrap |
+| 📟 **FPGA Counter** | 4-bit digital counter in Quartus-II (VHDL). | FPGA, VHDL |
+| ⚡ **MATLAB Circuit GUI** | Simulated circuit GUI with waveform output. | MATLAB, Simulink |
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vikashyadavbasti" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:typhonya@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://flutterfever.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=developervikki&theme=react-dark"/>
+  <img src="https://streak-stats.demolab.com?user=developervikki&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developervikki&layout=compact&theme=radical"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-- 🎓 3rd Year B.Tech (CSE - ECE Base), GB Pant Engineering College, New Delhi  
-- 🔬 Ex-Diploma (Electronics), Govt. Polytechnic Gonda  
-- 🌱 Currently Exploring: **Flask, MATLAB, NumPy, Pandas, C#, Tailwind CSS**  
-- 💡 Passionate about IoT, Web Dev, and Circuit Simulations  
-- 📝 Blogging | 🎓 Teaching Juniors | 🧑‍💻 Freelancing  
-- 📬 Reach me at: **typhonya@gmail.com**
-
----
-
-## 💼 Internships & Achievements
+## 📬 Connect With Me
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Freelancer-Success-green?style=for-the-badge&logo=fiverr&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Intern-Softpro%20India-blue?style=for-the-badge&logo=bookstack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Intern-Web%20Gestures-yellow?style=for-the-badge&logo=vercel&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Project-Ecommerce%20App-red?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IoT-Smart%20Car-orange?style=for-the-badge&logo=arduino&logoColor=white"/>
-</p>
-
----
-
-## 💻 Skills
-
-<!-- Languages -->
-### 🧠 Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-<!-- Libraries -->
-### 📚 Libraries
-<p align="center">
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Simulink-fb8c00?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/STL-C%2B%2B?style=for-the-badge&logo=cplusplus&logoColor=white" />
-</p>
-
-<!-- Frameworks -->
-### 🚀 Frameworks / Platforms
-<p align="center">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blynk-28C101?style=for-the-badge&logo=googlehome&logoColor=white" />
-</p>
-
-<!-- Tools -->
-### 🔧 Tools & IDEs
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
-<!-- IoT -->
-### 🔌 IoT, FPGA & Embedded Systems
-<p align="center">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/NodeMCU-83C5BE?style=for-the-badge&logo=wifi&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=esphome&logoColor=white" />
-  <img src="https://img.shields.io/badge/FPGA-00AEEF?style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Quartus-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/LTspice-CC0000?style=for-the-badge&logo=analog-devices&logoColor=white" />
-  <img src="https://img.shields.io/badge/MultiSim-00599C?style=for-the-badge&logo=ni&logoColor=white" />
-</p>
-
----
----
-
-## 🚀 Latest Projects
-
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| 🧠 **AI-Powered Attendance System** <br> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> | Python, OpenCV, Pandas | Face-recognition-based attendance app using webcam and Excel logging.  |
-| 📚 **Digital Library Portal** <br> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white"/> | PHP, MySQL, Tailwind CSS | Booking & fee system for digital library with admin dashboard and invoice generation.  |
-| ⚡ **Smart IoT Car** <br> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Blynk-28C101?style=flat&logo=googlehome&logoColor=white"/> <img src="https://img.shields.io/badge/NodeMCU-83C5BE?style=flat&logo=wifi&logoColor=white"/> | NodeMCU, Blynk, Arduino | Obstacle-avoiding car controlled via smartphone using IoT platform. |
-| 🛒 **E-commerce Website** <br> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> | PHP, Bootstrap, MySQL | Admin & user dashboard, product CRUD, secure checkout, and cart logic. |
-| 📟 **FPGA Digital Counter** <br> <img src="https://img.shields.io/badge/Quartus-0071C5?style=flat&logo=intel&logoColor=white"/> <img src="https://img.shields.io/badge/VHDL-0066cc?style=flat"/> | Quartus II, FPGA (VHDL) | 4-bit up/down counter logic using simulation in Quartus II. |
-| 🧪 **MATLAB Circuit Simulator** <br> <img src="https://img.shields.io/badge/MATLAB-orange?style=flat&logo=mathworks&logoColor=white"/> <img src="https://img.shields.io/badge/Simulink-fb8c00?style=flat&logo=mathworks&logoColor=white"/> | MATLAB, Simulink | Circuit block simulator and waveform generator in MATLAB GUI. |
-
----
-
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-   
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=developervikki&theme=react-dark" alt="GitHub Contribution Graph"/>
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=developervikki&show_icons=true&theme=radical" height="180"/>-->
- 
-  
-  
-
-</p>
-<p >
-  <img src="https://streak-stats.demolab.com?user=developervikki&theme=radical" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developervikki&layout=compact&theme=radical"/>
-
-</p>
-
-
-
-## 🧩 Fun Badges
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MATLAB-A-green?style=for-the-badge&logo=mathworks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-A-yellow?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-A%2B-blue?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-</p>
-
----
-
-## 📱 Contact Me
-
-<p align="center">
-  <a href="mailto:vky9670480893@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/developervikki">
-    <img src="https://img.shields.io/twitter/follow/developervikki?logo=twitter&style=for-the-badge"/>
-  </a>
+  <a href="mailto:typhonya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vikashyadavbasti"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/developervikki"><img src="https://img.shields.io/twitter/follow/developervikki?style=for-the-badge&logo=twitter"/></a>
+  <a href="https://flutterfever.com"><img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white"/></a>
 </p>
