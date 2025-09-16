@@ -1,7 +1,7 @@
 <!-- PROFILE HEADER -->
 
 <h1 align="center">💻 Vikash Yadav</h1>
-<h3 align="center">Coder • IoT Enthusiast • AI/ML Explorer</h3>
+<h3 align="center">Coder • IoT Enthusiast • AI/ML Explorer</h3> 
 
 <p align="center">
   <a href="https://github.com/developervikki">
