@@ -118,9 +118,16 @@ Full-stack developer with expertise in **PHP, MySQL, and modern web technologies
 ![Vikash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=developervikki&show_icons=true&theme=radical&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developervikki&layout=compact&theme=radical&hide_border=true)
 
-### **🔥 LeetCode & GfG Progress**
-![LeetCode Stats](https://leetcard.jacoblin.cool/aktu_vikash?theme=dark&font=Roboto%20Mono)
-![GfG Stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=piloop)
+## 📊 Coding Profile Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/aktu_vikash?theme=dark&font=Roboto%20Mono" alt="LeetCode Stats" />
+
+  <a href="https://www.hackerrank.com/profile/typhonya">
+    <img src="https://hackerrank-badges.vercel.app/typhonya" alt="HackerRank Badge" />
+  </a>
+</p>
+
 
 </div>
 
@@ -158,7 +165,9 @@ Full-stack developer with expertise in **PHP, MySQL, and modern web technologies
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vikash%20Yadav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikashyadavbasti)
 [![GitHub](https://img.shields.io/badge/GitHub-developervikki-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/developervikki)
 [![LeetCode](https://img.shields.io/badge/LeetCode-aktu__vikash-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/aktu_vikash)
-[![GfG](https://img.shields.io/badge/GfG-piloop-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/piloop)
+[![GfG](https://img.shields.io/badge/GeeksforGeeks-piloop-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org)
+[![HackerRank Badge](https://hackerrank-badges.vercel.app/typhonya)](https://www.hackerrank.com/profile/typhonya)
+
 
 </div>
 
