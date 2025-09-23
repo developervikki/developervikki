@@ -202,6 +202,7 @@ Full-stack developer with expertise in **PHP, MySQL, and modern web technologies
 
 **Thanks for visiting my profile! Let's build something amazing together!** ✨
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 💭 Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&category=programming&quotes=5)
 
 </div>
