@@ -12,9 +12,7 @@
   <a href="https://github.com/developervikki">
     <img src="https://komarev.com/ghpvc/?username=developervikki&style=flat-square&color=blue" alt="Profile Views"/>
   </a>
-  <a href="https://github.com/developervikki?tab=followers">
-    <img src="https://img.shields.io/github/followers/developervikki?label=Followers&style=flat-square&color=success" alt="Followers"/>
-  </a>
+  
   <a href="https://leetcode.com/aktu_vikash/">
     <img src="https://img.shields.io/badge/LeetCode-100%2B%20Problems-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
