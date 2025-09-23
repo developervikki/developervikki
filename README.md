@@ -43,7 +43,9 @@ Full-stack developer with expertise in **PHP, MySQL, and modern web technologies
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" title="PHP"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="JavaScript"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" title="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="SQL"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" title="MATLAB"/>
 </p>
 
 ### **Frontend Development**
@@ -59,6 +61,7 @@ Full-stack developer with expertise in **PHP, MySQL, and modern web technologies
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL"/>
   <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=rest&logoColor=white" title="RESTful APIs"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" title="PHP Backend"/>
+  <img src="https://img.shields.io/badge/NodeMCU-00979D?style=for-the-badge&logo=arduino&logoColor=white" title="NodeMCU"/>
 </p>
 
 ### **AI/ML & Data Science**
@@ -77,7 +80,40 @@ Full-stack developer with expertise in **PHP, MySQL, and modern web technologies
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" title="VS Code"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" title="Postman"/>
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" title="XAMPP"/>
+  <img src="https://img.shields.io/badge/PCB_Design-FF6B00?style=for-the-badge&logo=altium-designer&logoColor=white" title="PCB Design"/>
 </p>
+
+---
+
+## 📜 Certifications & Achievements
+
+### **🏆 HackerRank Certifications (2025)**
+<div align="center">
+
+[![Problem Solving](https://img.shields.io/badge/HackerRank-Problem_Solving-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/f617816c6c9a)
+[![SQL Basic](https://img.shields.io/badge/HackerRank-SQL_Basic-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/ba6b74e229f1)
+[![SQL Intermediate](https://img.shields.io/badge/HackerRank-SQL_Intermediate-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/f7767790f360)
+[![Software Engineer](https://img.shields.io/badge/HackerRank-Software_Engineer-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/3f464d5c56c5)
+[![Software Engineering Intern](https://img.shields.io/badge/HackerRank-Software_Engineering_Intern-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/d48c5f807d81)
+
+</div>
+
+### **🔬 Technical Certifications**
+| Certification | Issuer | Date | Skills |
+|---------------|--------|------|--------|
+| **C++ Course: Learn the Essentials** | Scaler | Mar 2024 | C++, C Programming |
+| **Data Structures in C++** | Scaler | Mar 2024 | C++, Data Structures |
+| **MATLAB Certified** | MathWorks | Oct 2023 | MATLAB, Simulation |
+| **Introduction to Cyber Security** | Cisco | Nov 2023 | Cybersecurity Fundamentals |
+| **PCB Architecture and Design** | Cisco thingQbator - IIT (BHU) | Jun 2023 | PCB Design, Electronics |
+| **Connected Devices using NodeMCU** | Cisco thingQbator - IIT (BHU) | Mar 2022 | IoT, NodeMCU, Embedded Systems |
+| **Online Shopping System using PHP** | Softpro India | Aug 2022 | PHP, MySQL, Bootstrap, HTML5, CSS |
+| **Introduction to IoT** | Cisco | Mar 2020 | Internet of Things, Embedded Systems |
+
+### **🌟 Additional Achievements**
+- **The Tata Capital Pankh Scholarship Programme** (2020) - *Buddy4Study India Foundation*
+- **Volunteering Internship** - *Muskurahat Foundation* (Sep 2023)
+- **Techfest IITB Participation** - *Internshala* (Jun 2023)
 
 ---
 
@@ -95,18 +131,20 @@ Full-stack developer with expertise in **PHP, MySQL, and modern web technologies
 
 ### **🌐 Web Applications**
 
-| Project | Description | Tech Stack | Live Demo |
-|---------|-------------|------------|-----------|
-| **Government ITI Sohawal Official Website** | Institutional website serving 5,000+ monthly users with dynamic CMS | PHP, MySQL, JavaScript, Tailwind CSS | [Live Site](https://example.com) |
-| **Digital Library Seat Reservation System** | Real-time booking system with role-based dashboards | PHP, MySQL, JavaScript, Tailwind CSS | [Live Demo](https://example.com) |
-| **E-Commerce Shopping System** | Complete shopping platform with admin panel | PHP, MySQL, Bootstrap | [GitHub](https://github.com/developervikki) |
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| **Government ITI Sohawal Official Website** | Institutional website serving 5,000+ monthly users with dynamic CMS | PHP, MySQL, JavaScript, Tailwind CSS | ✅ Live |
+| **Digital Library Seat Reservation System** | Real-time booking system with role-based dashboards | PHP, MySQL, JavaScript, Tailwind CSS | ✅ Live |
+| **E-Commerce Shopping System** | Complete shopping platform with admin panel | PHP, MySQL, Bootstrap | ✅ Completed |
 
-### **🤖 AI/ML Projects**
+### **🤖 AI/ML & IoT Projects**
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| **Machine Learning Projects** | Regression, classification, EDA projects | Python, Pandas, Scikit-learn | Completed |
-| **Data Analysis Portfolio** | Various data cleaning and visualization projects | Python, NumPy, Matplotlib | Ongoing |
+| **Machine Learning Projects** | Regression, classification, EDA projects | Python, Pandas, Scikit-learn | ✅ Completed |
+| **IoT Connected Devices** | NodeMCU based smart devices | NodeMCU, IoT Protocols | ✅ Completed |
+| **PCB Design Projects** | Custom circuit board designs | PCB Design Tools | ✅ Completed |
+| **MATLAB Simulations** | Engineering simulations and analysis | MATLAB, Simulink | ✅ Completed |
 
 ---
 
@@ -118,22 +156,15 @@ Full-stack developer with expertise in **PHP, MySQL, and modern web technologies
 ![Vikash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=developervikki&show_icons=true&theme=radical&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developervikki&layout=compact&theme=radical&hide_border=true)
 
-## 📊 Coding Profile Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/aktu_vikash?theme=dark&font=Roboto%20Mono" alt="LeetCode Stats" />
-
-  <a href="https://www.hackerrank.com/profile/typhonya">
-    <img src="https://hackerrank-badges.vercel.app/typhonya" alt="HackerRank Badge" />
-  </a>
-</p>
-
+### **🔥 Problem Solving Stats**
+[![LeetCode](https://leetcard.jacoblin.cool/aktu_vikash?theme=dark&font=Roboto%20Mono)](https://leetcode.com/aktu_vikash)
+[![HackerRank](https://img.shields.io/badge/HackerRank-5_Certificates-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/typhonya)
 
 </div>
 
 ---
 
-## 🎓 Education & Achievements
+## 🎓 Education
 
 ### **Education**
 - **B.Tech in Computer Science and Engineering** (Expected 2027)  
@@ -141,15 +172,6 @@ Full-stack developer with expertise in **PHP, MySQL, and modern web technologies
 
 - **Diploma in Electronics Engineering** (GPA: 3.8/4.0 - 77.9%)  
   *Government Polytechnic Gonda, Uttar Pradesh*
-
-### **🏆 Awards & Scholarships**
-- **The Tata Capital Pankh Scholarship Programme** (2020)  
-  *Awarded by Buddy4Study India Foundation for academic excellence*
-
-### **📜 Certifications**
-- **Advanced Data Structures in C++** (2024)
-- **Full-Stack Web Development with PHP** - Softpro India (2022)
-- **Introduction to IoT** - Cisco Networking Academy (2020)
 
 ---
 
@@ -164,10 +186,8 @@ Full-stack developer with expertise in **PHP, MySQL, and modern web technologies
 [![Email](https://img.shields.io/badge/Email-typhonya@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:typhonya@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vikash%20Yadav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikashyadavbasti)
 [![GitHub](https://img.shields.io/badge/GitHub-developervikki-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/developervikki)
+[![HackerRank](https://img.shields.io/badge/HackerRank-typhonya-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/typhonya)
 [![LeetCode](https://img.shields.io/badge/LeetCode-aktu__vikash-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/aktu_vikash)
-[![GfG](https://img.shields.io/badge/GeeksforGeeks-piloop-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org)
-[![HackerRank Badge](https://hackerrank-badges.vercel.app/typhonya)](https://www.hackerrank.com/profile/typhonya)
-
 
 </div>
 
@@ -176,10 +196,11 @@ Full-stack developer with expertise in **PHP, MySQL, and modern web technologies
 <div align="center">
 
 ### ⚡ Quick Facts
+- ✅ **5 HackerRank Certifications** in Problem Solving, SQL, and Software Engineering
 - ✅ **100+ Problems Solved** on LeetCode & GeeksforGeeks
 - 🌐 **5,000+ Monthly Users** served through deployed web applications
 - 🎯 **Strong DSA Foundation** with continuous practice
-- 🔥 **Passionate about AI/ML** and real-world applications
+- 🔥 **Passionate about Full-Stack Development & AI/ML**
 
 **Thanks for visiting my profile! Let's build something amazing together!** ✨
 
