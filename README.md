@@ -2,7 +2,7 @@
 <div align="center">
   
 # 💻 Vikash Yadav
-### Full-Stack Developer • AI/ML Engineer • Problem Solver
+### Full-Stack Developer • AI/ML Engineer • Problem Solver • Tech Enthusiast
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;AI%2FML+Enthusiast;Problem+Solver;Building+Scalable+Solutions" alt="Typing SVG" />
