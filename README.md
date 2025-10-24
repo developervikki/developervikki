@@ -14,10 +14,10 @@
   </a>
   
   <a href="https://leetcode.com/aktu_vikash/">
-    <img src="https://img.shields.io/badge/LeetCode-100%2B%20Problems-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
   <a href="https://www.geeksforgeeks.org/user/piloop/">
-    <img src="https://img.shields.io/badge/GfG-100%2B%20Problems-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GfG"/>
+    <img src="https://img.shields.io/badge/GfG-200%2B%20Problems-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GfG"/>
   </a>
 </p>
 
